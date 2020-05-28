@@ -1,0 +1,15 @@
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\bin\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\bin\Debug\Google.Protobuf.dll
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\bin\Debug\Renci.SshNet.dll
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\bin\Debug\MySql.Data.xml
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\obj\Debug\Account Assistent.csprojAssemblyReference.cache
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\obj\Debug\AccountManagerAssistent.PicBxLogo.resources
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\obj\Debug\Account Assistent.csproj.GenerateResource.cache
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\obj\Debug\Account Assistent.csproj.CopyComplete
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\obj\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\obj\Debug\AccountManagerAssistent.pdb

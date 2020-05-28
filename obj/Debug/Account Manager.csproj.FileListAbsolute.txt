@@ -1,0 +1,553 @@
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\bin\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\bin\Debug\Google.Protobuf.dll
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\bin\Debug\Renci.SshNet.dll
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\bin\Debug\MySql.Data.xml
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\obj\Debug\AccountManagerAssistent.PicBxLogo.resources
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\obj\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\eduard.gradwald\source\repos\AccountManagerAssistent\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\eduard.gradwald\source\repos\AccountManager\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\eduard.gradwald\source\repos\AccountManager\bin\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\AccountManager\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\eduard.gradwald\source\repos\AccountManager\bin\Debug\Google.Protobuf.dll
+C:\Users\eduard.gradwald\source\repos\AccountManager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eduard.gradwald\source\repos\AccountManager\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eduard.gradwald\source\repos\AccountManager\bin\Debug\Renci.SshNet.dll
+C:\Users\eduard.gradwald\source\repos\AccountManager\bin\Debug\MySql.Data.xml
+C:\Users\eduard.gradwald\source\repos\AccountManager\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\eduard.gradwald\source\repos\AccountManager\obj\Debug\AccountManagerAssistent.PicBxLogo.resources
+C:\Users\eduard.gradwald\source\repos\AccountManager\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\eduard.gradwald\source\repos\AccountManager\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\eduard.gradwald\source\repos\AccountManager\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\eduard.gradwald\source\repos\AccountManager\obj\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\AccountManager\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\AccountManager\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\egrad\source\repos\AccountManager\bin\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\AccountManager\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\AccountManager\bin\Debug\MySql.Data.dll
+C:\Users\egrad\source\repos\AccountManager\bin\Debug\Google.Protobuf.dll
+C:\Users\egrad\source\repos\AccountManager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\egrad\source\repos\AccountManager\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\egrad\source\repos\AccountManager\bin\Debug\Renci.SshNet.dll
+C:\Users\egrad\source\repos\AccountManager\bin\Debug\MySql.Data.xml
+C:\Users\egrad\source\repos\AccountManager\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\egrad\source\repos\AccountManager\obj\Debug\AccountManagerAssistent.PicBxLogo.resources
+C:\Users\egrad\source\repos\AccountManager\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\egrad\source\repos\AccountManager\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\egrad\source\repos\AccountManager\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\egrad\source\repos\AccountManager\obj\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\AccountManager\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\egrad\source\repos\Account Manager\bin\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager\bin\Debug\MySql.Data.dll
+C:\Users\egrad\source\repos\Account Manager\bin\Debug\Google.Protobuf.dll
+C:\Users\egrad\source\repos\Account Manager\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\egrad\source\repos\Account Manager\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\egrad\source\repos\Account Manager\bin\Debug\Renci.SshNet.dll
+C:\Users\egrad\source\repos\Account Manager\bin\Debug\MySql.Data.xml
+C:\Users\egrad\source\repos\Account Manager\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\egrad\source\repos\Account Manager\obj\Debug\AccountManagerAssistent.PicBxLogo.resources
+C:\Users\egrad\source\repos\Account Manager\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\egrad\source\repos\Account Manager\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\egrad\source\repos\Account Manager\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\egrad\source\repos\Account Manager\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\egrad\source\repos\Account Manager\obj\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager\obj\Debug\AccountManagerAssistent.Anmeldung.resources
+C:\Users\egrad\source\repos\Account Manager\obj\Debug\AccountManagerAssistent.Uebersicht.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\bin\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\bin\Debug\Google.Protobuf.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\bin\Debug\Renci.SshNet.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\bin\Debug\MySql.Data.xml
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\obj\Debug\AccountManagerAssistent.Anmeldung.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\obj\Debug\AccountManagerAssistent.PicBxLogo.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\obj\Debug\AccountManagerAssistent.Uebersicht.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\obj\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\eduard.gradwald\source\repos\Account Manager v2\obj\Debug\AccountManagerAssistent.FrmCreatePassword.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\bin\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\bin\Debug\Google.Protobuf.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\bin\Debug\Renci.SshNet.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\bin\Debug\MySql.Data.xml
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\obj\Debug\AccountManagerAssistent.Anmeldung.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\obj\Debug\AccountManagerAssistent.FrmCreatePassword.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\obj\Debug\AccountManagerAssistent.FrmAddEntry.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\obj\Debug\AccountManagerAssistent.PicBxLogo.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\obj\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\eduard.gradwald\source\repos\Account Manager v3\obj\Debug\AccountManagerAssistent.FrmUebersicht.resources
+C:\Users\egrad\source\repos\Account Manager v3\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\egrad\source\repos\Account Manager v3\bin\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager v3\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager v3\bin\Debug\MySql.Data.dll
+C:\Users\egrad\source\repos\Account Manager v3\bin\Debug\Google.Protobuf.dll
+C:\Users\egrad\source\repos\Account Manager v3\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\egrad\source\repos\Account Manager v3\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\egrad\source\repos\Account Manager v3\bin\Debug\Renci.SshNet.dll
+C:\Users\egrad\source\repos\Account Manager v3\bin\Debug\MySql.Data.xml
+C:\Users\egrad\source\repos\Account Manager v3\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\egrad\source\repos\Account Manager v3\obj\Debug\AccountManagerAssistent.FrmCreatePassword.resources
+C:\Users\egrad\source\repos\Account Manager v3\obj\Debug\AccountManagerAssistent.FrmAddEntry.resources
+C:\Users\egrad\source\repos\Account Manager v3\obj\Debug\AccountManagerAssistent.PicBxLogo.resources
+C:\Users\egrad\source\repos\Account Manager v3\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\egrad\source\repos\Account Manager v3\obj\Debug\AccountManagerAssistent.FrmUebersicht.resources
+C:\Users\egrad\source\repos\Account Manager v3\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\egrad\source\repos\Account Manager v3\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\egrad\source\repos\Account Manager v3\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\egrad\source\repos\Account Manager v3\obj\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager v3\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager v3\obj\Debug\AccountManagerAssistent.FrmAnmeldung.resources
+C:\Users\egrad\source\repos\Account Manager v4\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\egrad\source\repos\Account Manager v4\obj\Debug\AccountManagerAssistent.FrmAnmeldung.resources
+C:\Users\egrad\source\repos\Account Manager v4\obj\Debug\AccountManagerAssistent.FrmCreatePassword.resources
+C:\Users\egrad\source\repos\Account Manager v4\obj\Debug\AccountManagerAssistent.FrmAddEntry.resources
+C:\Users\egrad\source\repos\Account Manager v4\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\egrad\source\repos\Account Manager v4\obj\Debug\AccountManagerAssistent.FrmUebersicht.resources
+C:\Users\egrad\source\repos\Account Manager v4\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\egrad\source\repos\Account Manager v4\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\egrad\source\repos\Account Manager v4\obj\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager v4\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager v4\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\egrad\source\repos\Account Manager v4\bin\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager v4\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager v4\bin\Debug\MySql.Data.dll
+C:\Users\egrad\source\repos\Account Manager v4\bin\Debug\Google.Protobuf.dll
+C:\Users\egrad\source\repos\Account Manager v4\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\egrad\source\repos\Account Manager v4\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\egrad\source\repos\Account Manager v4\bin\Debug\Renci.SshNet.dll
+C:\Users\egrad\source\repos\Account Manager v4\bin\Debug\MySql.Data.xml
+C:\Users\egrad\source\repos\Account Manager v4\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\egrad\source\repos\Account Manager v4\bin\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager v4\obj\Debug\AccountManagerAssistent.FrmUebersicht.bin.resources
+C:\Users\egrad\source\repos\Account Manager v4\obj\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager v4\obj\Debug\AccountManagerAssistent.FrmOld.resources
+C:\Users\egrad\source\repos\Account Manager v5\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\egrad\source\repos\Account Manager v5\obj\Debug\AccountManagerAssistent.FrmAnmeldung.resources
+C:\Users\egrad\source\repos\Account Manager v5\obj\Debug\AccountManagerAssistent.FrmCreatePassword.resources
+C:\Users\egrad\source\repos\Account Manager v5\obj\Debug\AccountManagerAssistent.FrmAddEntry.resources
+C:\Users\egrad\source\repos\Account Manager v5\obj\Debug\AccountManagerAssistent.FrmOld.resources
+C:\Users\egrad\source\repos\Account Manager v5\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\egrad\source\repos\Account Manager v5\obj\Debug\AccountManagerAssistent.FrmUebersicht.resources
+C:\Users\egrad\source\repos\Account Manager v5\obj\Debug\AccountManagerAssistent.FrmUebersicht.bin.resources
+C:\Users\egrad\source\repos\Account Manager v5\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\egrad\source\repos\Account Manager v5\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\egrad\source\repos\Account Manager v5\obj\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager v5\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager v5\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\egrad\source\repos\Account Manager v5\bin\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager v5\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager v5\bin\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager v5\bin\Debug\MySql.Data.dll
+C:\Users\egrad\source\repos\Account Manager v5\bin\Debug\Google.Protobuf.dll
+C:\Users\egrad\source\repos\Account Manager v5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\egrad\source\repos\Account Manager v5\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\egrad\source\repos\Account Manager v5\bin\Debug\Renci.SshNet.dll
+C:\Users\egrad\source\repos\Account Manager v5\bin\Debug\MySql.Data.xml
+C:\Users\egrad\source\repos\Account Manager v5\obj\Debug\AccountManagerAssistent.FrmInfo.resources
+C:\Users\egrad\source\repos\Account Manager v5\obj\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager v5\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\egrad\source\repos\Account Manager v6\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\egrad\source\repos\Account Manager v6\bin\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager v6\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager v6\bin\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager v6\bin\Debug\MySql.Data.dll
+C:\Users\egrad\source\repos\Account Manager v6\bin\Debug\Google.Protobuf.dll
+C:\Users\egrad\source\repos\Account Manager v6\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\egrad\source\repos\Account Manager v6\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\egrad\source\repos\Account Manager v6\bin\Debug\Renci.SshNet.dll
+C:\Users\egrad\source\repos\Account Manager v6\bin\Debug\MySql.Data.xml
+C:\Users\egrad\source\repos\Account Manager v6\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\egrad\source\repos\Account Manager v6\obj\Debug\AccountManagerAssistent.FrmAnmeldung.resources
+C:\Users\egrad\source\repos\Account Manager v6\obj\Debug\AccountManagerAssistent.FrmCreatePassword.resources
+C:\Users\egrad\source\repos\Account Manager v6\obj\Debug\AccountManagerAssistent.FrmAddEntry.resources
+C:\Users\egrad\source\repos\Account Manager v6\obj\Debug\AccountManagerAssistent.FrmInfo.resources
+C:\Users\egrad\source\repos\Account Manager v6\obj\Debug\AccountManagerAssistent.FrmOld.resources
+C:\Users\egrad\source\repos\Account Manager v6\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\egrad\source\repos\Account Manager v6\obj\Debug\AccountManagerAssistent.FrmUebersicht.resources
+C:\Users\egrad\source\repos\Account Manager v6\obj\Debug\AccountManagerAssistent.FrmUebersicht.bin.resources
+C:\Users\egrad\source\repos\Account Manager v6\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\egrad\source\repos\Account Manager v6\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\egrad\source\repos\Account Manager v6\obj\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager v6\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\egrad\source\repos\Account Manager v6\obj\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager v6\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager v6\obj\Debug\AccountManagerAssistent.FrmAddGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\AccountManagerAssistent.FrmAnmeldung.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\AccountManagerAssistent.FrmCreatePassword.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\AccountManagerAssistent.FrmAddEntry.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\AccountManagerAssistent.FrmInfo.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\AccountManagerAssistent.FrmAddGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\AccountManagerAssistent.FrmOld.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\AccountManagerAssistent.FrmUebersicht.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\AccountManagerAssistent.FrmUebersicht.bin.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v6\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\egrad\source\repos\Account Manager 2020 v6\bin\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager 2020 v6\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v6\bin\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v6\bin\Debug\MySql.Data.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v6\bin\Debug\Google.Protobuf.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v6\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v6\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v6\bin\Debug\Renci.SshNet.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v6\bin\Debug\MySql.Data.xml
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\AccountManagerAssistent.FrmEditGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v6\obj\Debug\AccountManagerAssistent.FrmFind.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\bin\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\bin\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\bin\Debug\Google.Protobuf.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\bin\Debug\Renci.SshNet.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\bin\Debug\MySql.Data.xml
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\AccountManagerAssistent.FrmAnmeldung.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\AccountManagerAssistent.FrmCreatePassword.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\AccountManagerAssistent.FrmAddEntry.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\AccountManagerAssistent.FrmInfo.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\AccountManagerAssistent.FrmFind.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\AccountManagerAssistent.FrmEditGroup.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\AccountManagerAssistent.FrmAddGroup.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\AccountManagerAssistent.FrmOld.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\AccountManagerAssistent.FrmUebersicht.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\AccountManagerAssistent.FrmUebersicht.bin.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v7\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmAnmeldung.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmCreatePassword.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmAddEntry.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmInfo.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmFind.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmEditGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmAddGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmOld.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmUebersicht.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmUebersicht.bin.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v8\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\egrad\source\repos\Account Manager 2020 v8\bin\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager 2020 v8\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v8\bin\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v8\bin\Debug\MySql.Data.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v8\bin\Debug\Google.Protobuf.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v8\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v8\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v8\bin\Debug\Renci.SshNet.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v8\bin\Debug\MySql.Data.xml
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v8\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmAnmeldung.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmCreatePassword.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmAddEntry.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmInfo.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmFind.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmEditGroup.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmAddGroup.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmOld.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmUebersicht.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.FrmUebersicht.bin.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\bin\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\bin\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\bin\Debug\Google.Protobuf.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\bin\Debug\Renci.SshNet.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\bin\Debug\MySql.Data.xml
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v8\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\bin\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\bin\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\bin\Debug\Google.Protobuf.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\bin\Debug\Renci.SshNet.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\bin\Debug\MySql.Data.xml
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmAnmeldung.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmCreatePassword.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmAddEntry.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmInfo.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmFind.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmEditGroup.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmAddGroup.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmOld.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmUebersicht.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmUebersicht.bin.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v9\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\egrad\source\repos\Account Manager 2020 v9\bin\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager 2020 v9\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v9\bin\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v9\bin\Debug\MySql.Data.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v9\bin\Debug\Google.Protobuf.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v9\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v9\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v9\bin\Debug\Renci.SshNet.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v9\bin\Debug\MySql.Data.xml
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmAnmeldung.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmCreatePassword.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmAddEntry.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmInfo.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmFind.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmEditGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmAddGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmOld.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmUebersicht.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\AccountManager.FrmUebersicht.bin.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v9\obj\Debug\AccountManagerAssistent.FrmEditEntry.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v10\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\egrad\source\repos\Account Manager 2020 v10\bin\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager 2020 v10\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v10\bin\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v10\bin\Debug\MySql.Data.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v10\bin\Debug\Google.Protobuf.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v10\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v10\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v10\bin\Debug\Renci.SshNet.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v10\bin\Debug\MySql.Data.xml
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\AccountManagerAssistent.FrmEditEntry.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\AccountManager.FrmAnmeldung.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\AccountManager.FrmCreatePassword.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\AccountManager.FrmAddEntry.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\AccountManager.FrmInfo.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\AccountManager.FrmFind.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\AccountManager.FrmEditGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\AccountManager.FrmAddGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\AccountManager.FrmOld.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\AccountManager.FrmUebersicht.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\AccountManager.FrmUebersicht.bin.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager 2020 v10\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\AccountManagerAssistent.FrmEditEntry.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\AccountManager.FrmAnmeldung.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\AccountManager.FrmCreatePassword.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\AccountManager.FrmAddEntry.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\AccountManager.FrmInfo.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\AccountManager.FrmFind.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\AccountManager.FrmEditGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\AccountManager.FrmAddGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\AccountManager.FrmUebersicht.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\AccountManager.FrmUebersicht.bin.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v12\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\egrad\source\repos\Account Manager 2020 v12\bin\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager 2020 v12\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v12\bin\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v12\bin\Debug\MySql.Data.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v12\bin\Debug\Google.Protobuf.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v12\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v12\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v12\bin\Debug\Renci.SshNet.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v12\bin\Debug\MySql.Data.xml
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v12\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\bin\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\bin\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\bin\Debug\Google.Protobuf.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\bin\Debug\Renci.SshNet.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\bin\Debug\MySql.Data.xml
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\AccountManagerAssistent.FrmEditEntry.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\AccountManager.FrmAnmeldung.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\AccountManager.FrmCreatePassword.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\AccountManager.FrmAddEntry.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\AccountManager.FrmInfo.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\AccountManager.FrmFind.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\AccountManager.FrmEditGroup.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\AccountManager.FrmAddGroup.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\AccountManager.FrmUebersicht.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\AccountManager.FrmUebersicht.bin.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v13\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v14\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\egrad\source\repos\Account Manager 2020 v14\bin\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager 2020 v14\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v14\bin\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v14\bin\Debug\MySql.Data.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v14\bin\Debug\Google.Protobuf.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v14\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v14\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v14\bin\Debug\Renci.SshNet.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v14\bin\Debug\MySql.Data.xml
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\AccountManagerAssistent.FrmEditEntry.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\AccountManager.FrmAnmeldung.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\AccountManager.FrmCreatePassword.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\AccountManager.FrmAddEntry.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\AccountManager.FrmInfo.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\AccountManager.FrmFind.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\AccountManager.FrmEditGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\AccountManager.FrmAddGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\AccountManager.FrmUebersicht.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\AccountManager.FrmUebersicht.bin.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager 2020 v14\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\bin\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\bin\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\bin\Debug\Google.Protobuf.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\bin\Debug\Renci.SshNet.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\bin\Debug\MySql.Data.xml
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\AccountManagerAssistent.FrmEditEntry.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\AccountManager.FrmAnmeldung.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\AccountManager.FrmCreatePassword.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\AccountManager.FrmAddEntry.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\AccountManager.FrmInfo.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\AccountManager.FrmEditGroup.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\AccountManager.FrmAddGroup.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\AccountManager.FrmUebersicht.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\AccountManager.FrmUebersicht.bin.resources
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\AccountManagerAssistent.exe
+C:\Users\eduard.gradwald\source\repos\Account Manager 2020 v15\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\AccountManagerAssistent.FrmEditEntry.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\AccountManager.FrmAnmeldung.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\AccountManager.FrmCreatePassword.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\AccountManager.FrmAddEntry.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\AccountManager.FrmInfo.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\AccountManager.FrmEditGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\AccountManager.FrmAddGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\AccountManager.FrmUebersicht.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\AccountManager.FrmUebersicht.bin.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v16\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\egrad\source\repos\Account Manager 2020 v16\bin\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager 2020 v16\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v16\bin\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v16\bin\Debug\MySql.Data.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v16\bin\Debug\Google.Protobuf.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v16\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v16\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v16\bin\Debug\Renci.SshNet.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v16\bin\Debug\MySql.Data.xml
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v16\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\egrad\source\repos\Account Manager 2020 v18\bin\Debug\AccountManagerAssistent.exe.config
+C:\Users\egrad\source\repos\Account Manager 2020 v18\bin\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager 2020 v18\bin\Debug\AccountManagerAssistent.pdb
+C:\Users\egrad\source\repos\Account Manager 2020 v18\bin\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v18\bin\Debug\MySql.Data.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v18\bin\Debug\Google.Protobuf.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v18\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v18\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v18\bin\Debug\Renci.SshNet.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v18\bin\Debug\MySql.Data.xml
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\Account Manager.csprojAssemblyReference.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\AccountManagerAssistent.FrmEditEntry.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\AccountManager.FrmAnmeldung.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\AccountManager.FrmCreatePassword.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\AccountManager.FrmAddEntry.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\AccountManager.FrmInfo.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\AccountManager.FrmEditGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\AccountManager.FrmAddGroup.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\AccountManagerAssistent.Properties.Resources.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\AccountManager.FrmUebersicht.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\AccountManager.FrmUebersicht.bin.resources
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\Account Manager.csproj.GenerateResource.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\Account Manager.csproj.CoreCompileInputs.cache
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\bin\AccountManagerAssistent.resources.dll
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\Account Manager.csproj.CopyComplete
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\AccountManagerAssistent.exe
+C:\Users\egrad\source\repos\Account Manager 2020 v18\obj\Debug\AccountManagerAssistent.pdb

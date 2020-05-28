@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F15B5BEF-DD9D-4E43-924F-9FDE5FC4FD24}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AccountManagerAssistent</RootNamespace>
+    <AssemblyName>AccountManagerAssistent</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MySql.Data, Version=8.0.19.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="GUIs\EditEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIs\EditEntry.Designer.cs">
+      <DependentUpon>EditEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIs\Anmeldung.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIs\Anmeldung.Designer.cs">
+      <DependentUpon>Anmeldung.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Klassen\Encryption.cs" />
+    <Compile Include="Klassen\Entry.cs" />
+    <Compile Include="GUIs\ErstelleMasterKey.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIs\ErstelleMasterKey.Designer.cs">
+      <DependentUpon>ErstelleMasterKey.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIs\AddEntry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIs\AddEntry.Designer.cs">
+      <DependentUpon>AddEntry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIs\AppVersion.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIs\AppVersion.Designer.cs">
+      <DependentUpon>AppVersion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIs\EditGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIs\EditGroup.Designer.cs">
+      <DependentUpon>EditGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUIs\AddGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIs\AddGroup.Designer.cs">
+      <DependentUpon>AddGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Klassen\Group.cs" />
+    <Compile Include="Klassen\HandlerDB.cs" />
+    <Compile Include="GUIs\Uebersicht.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUIs\Uebersicht.Designer.cs">
+      <DependentUpon>Uebersicht.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUIs\EditEntry.resx">
+      <DependentUpon>EditEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIs\Anmeldung.resx">
+      <DependentUpon>Anmeldung.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIs\ErstelleMasterKey.resx">
+      <DependentUpon>ErstelleMasterKey.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIs\AddEntry.resx">
+      <DependentUpon>AddEntry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIs\AppVersion.resx">
+      <DependentUpon>AppVersion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIs\EditGroup.resx">
+      <DependentUpon>EditGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIs\AddGroup.resx">
+      <DependentUpon>AddGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="GUIs\Uebersicht.bin.resx">
+      <DependentUpon>Uebersicht.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUIs\Uebersicht.resx">
+      <DependentUpon>Uebersicht.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Picture\lupe.lnk" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Picture\Aha-Soft-Security-Save-key.ico" />
+    <Content Include="Picture\computer.png" />
+    <Content Include="Picture\db2.png" />
+    <Content Include="Picture\firefox.png" />
+    <Content Include="Picture\folder_bank.jpg" />
+    <Content Include="Picture\folder_blue4.png" />
+    <Content Include="Picture\folder_dropbox.jpg" />
+    <Content Include="Picture\folder_new.png" />
+    <Content Include="Picture\fragezeichen.png" />
+    <Content Include="Picture\Google Drive2.jpg" />
+    <Content Include="Picture\info.png" />
+    <Content Include="Picture\key2.jpg" />
+    <Content Include="Picture\key3.png" />
+    <Content Include="Picture\keyPlus.png" />
+    <Content Include="Picture\key_minus.png" />
+    <Content Include="Picture\key_save.png" />
+    <Content Include="Picture\key_stift.png" />
+    <Content Include="Picture\kreis_kreus.png" />
+    <Content Include="Picture\lupe.png" />
+    <Content Include="Picture\lupe2.png" />
+    <Content Include="Picture\Modify-key.ico" />
+    <Content Include="Picture\network.png" />
+    <Content Include="Picture\neu.png" />
+    <Content Include="Picture\new.png" />
+    <Content Include="Picture\onedrive.png" />
+    <Content Include="Picture\ordner.jpg" />
+    <Content Include="Picture\outlook.png" />
+    <Content Include="Picture\dropbox.png" />
+    <Content Include="Picture\facebook.png" />
+    <Content Include="Picture\gmail.png" />
+    <Content Include="Picture\key.ico" />
+    <Content Include="Picture\network.jpg" />
+    <Content Include="Picture\korb.jpeg" />
+    <Content Include="Picture\passwordicon.png" />
+    <Content Include="Picture\peritia_kreis.png" />
+    <Content Include="Picture\Remove-key.ico" />
+    <Content Include="Picture\sap.png" />
+    <Content Include="Picture\schloss.png" />
+    <Content Include="Picture\security.png" />
+    <Content Include="Picture\speichern.png" />
+    <Content Include="Picture\tools.png" />
+    <Content Include="Picture\twitter.png" />
+    <Content Include="Picture\webide.jpg" />
+    <Content Include="Picture\youtube.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
